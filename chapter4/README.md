@@ -43,5 +43,3 @@ Enter your research topic: Top 3 Agentic AI frameworks in 2025
 > Final Answer: Research complete. Report saved.
 ```
 
-chapter5/README.md
-markdown
