@@ -40,4 +40,3 @@ python chain.py              # Full research pipeline
 python observability.py      # View tool call logs
 ```
 
-chapter7/README.md
