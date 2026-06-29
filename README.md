@@ -1,18 +1,18 @@
 # 🤖 Agentic AI: Build. Deploy. Automate.
 
-> 🚀 Complete source code companion for the book **Agentic AI: Build. Deploy. Automate.**
+> 🚀 Official source code companion for the book **Agentic AI: Build. Deploy. Automate.**
 
-This repository contains the complete chapter-wise source code, practical implementations, and hands-on examples from the book.
+Welcome to the official GitHub repository containing the complete chapter-wise source code, practical projects, and hands-on implementations featured in the book.
 
 ## 📚 What's Inside
 
-- 📖 Chapter-wise source code (Chapters 1–13)
-- 🤖 AI Agent implementations
-- 🧠 Memory & RAG examples
-- 👥 Multi-Agent Systems (CrewAI)
+- 📖 Complete source code for Chapters 1–13
+- 🤖 AI Agents & Autonomous Workflows
+- 🧠 Memory & Retrieval-Augmented Generation (RAG)
+- 👥 Multi-Agent Systems with CrewAI
 - 🔗 Tool Calling & API Integrations
-- 🚀 FastAPI Deployment
-- 🛡️ Security & Guardrails
+- 🚀 FastAPI & Production Deployment
+- 🛡️ Security, Guardrails & Safe AI Systems
 - 🏢 Enterprise Capstone Project
 
 ## 💻 Requirements
@@ -34,12 +34,15 @@ chapter03/
 chapter13/
 ```
 
-## 👨‍💻 Author
+## ✍️ Authors
 
-**NexGenAI Solutions**
+- **Dheeraj Muley**
+- **Sahil Mane**
 
 ## 🏢 Publisher
 
 **NexGenAI Solutions**
 
-⭐ If you find this repository helpful, consider giving it a Star!
+---
+
+⭐ **If you find this repository helpful, please consider giving it a Star!**
